@@ -4,8 +4,3 @@ spring:
   data:
     mongodb:
       uri: mongodb+srv://crover:bdCo-v95.@cluster0.nawut.mongodb.net/Customer_Service?retryWrites=true&w=majority
- 
-eureka:
-  client:
-    serviceUrl:
-      defaultZone: http://localhost:8091/eureka/
