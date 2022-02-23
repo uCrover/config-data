@@ -1,0 +1,7 @@
+server:
+  port: 8079
+eureka:
+  client:
+    serviceUrl:
+      #colocamo el host del registry ....dónde me wa conectar
+      defaultZone: http://localhost:8091/eureka
